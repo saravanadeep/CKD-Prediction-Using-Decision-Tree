@@ -77,6 +77,10 @@ This project predicts whether a patient has Chronic Kidney Disease (CKD) using a
 
 ![Correlation Heatmap](heatmap.png)
 
+### Feature Importance
+
+![Feature Importance](feature_importance.png)
+
 ---
 
 ## 📌 Conclusion
