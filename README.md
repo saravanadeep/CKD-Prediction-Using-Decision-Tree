@@ -71,6 +71,14 @@ This project predicts whether a patient has Chronic Kidney Disease (CKD) using a
 
 ---
 
+## 📷 Project Visualizations
+
+### Correlation Heatmap
+
+![Correlation Heatmap](heatmap.png)
+
+---
+
 ## 📌 Conclusion
 
 The Decision Tree model achieved high accuracy in predicting Chronic Kidney Disease. Feature selection reduced the number of input features while maintaining excellent model performance, making the model simpler and easier to interpret.
