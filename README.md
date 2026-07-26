@@ -32,16 +32,30 @@ This project predicts whether a patient has Chronic Kidney Disease (CKD) using a
 
 ## 📊 Project Workflow
 
-- Data Collection
-- Data Understanding
-- Data Cleaning
-- Missing Value Handling
-- Label Encoding
-- Exploratory Data Analysis (EDA)
-- Feature Selection using Decision Tree
-- Model Building
-- Model Evaluation
-- Model Comparison
+```text
+Dataset
+   │
+   ▼
+Data Preprocessing
+   │
+   ▼
+Exploratory Data Analysis (EDA)
+   │
+   ▼
+Feature Selection
+   │
+   ▼
+Train-Test Split
+   │
+   ▼
+Decision Tree Classifier
+   │
+   ▼
+Model Evaluation
+   │
+   ▼
+Prediction
+```
 
 ---
 
