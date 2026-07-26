@@ -81,6 +81,10 @@ This project predicts whether a patient has Chronic Kidney Disease (CKD) using a
 
 ![Feature Importance](feature_importance.png)
 
+### Confusion Matrix
+
+![Confusion matrix](confusion_matrix.png)
+
 ---
 
 ## 📌 Conclusion
