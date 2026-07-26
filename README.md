@@ -1,4 +1,8 @@
 # CKD-Prediction-Using-Decision-Tree
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange)
+![License](https://img.shields.io/badge/License-MIT-green)
+
 Machine Learning project for predicting Chronic Kidney Disease using Decision Tree.
 
 # 🩺 Chronic Kidney Disease Prediction using Decision Tree
@@ -6,6 +10,39 @@ Machine Learning project for predicting Chronic Kidney Disease using Decision Tr
 ## 📌 Project Overview
 
 This project predicts whether a patient has Chronic Kidney Disease (CKD) using a Decision Tree Classifier. The project includes data preprocessing, exploratory data analysis (EDA), feature selection, model building, and performance evaluation.
+
+---
+
+## 📁 Repository Structure
+
+```
+CKD-Prediction-Using-Decision-Tree/
+│── CKD_DecisionTree_Prediction.ipynb
+│── kidney_disease.csv
+│── heatmap.png
+│── feature_importance.png
+│── confusion_matrix.png
+│── README.md
+```
+
+---
+
+## ▶️ How to Run
+
+1. Clone the repository
+2. Install dependencies
+
+```bash
+pip install pandas numpy matplotlib seaborn scikit-learn
+```
+
+3. Open
+
+```text
+CKD_DecisionTree_Prediction.ipynb
+```
+
+4. Run all cells.
 
 ---
 
@@ -98,6 +135,16 @@ Prediction
 ### Confusion Matrix
 
 ![Confusion matrix](confusion_matrix.png)
+
+---
+
+## 🚀 Future Improvements
+
+- Hyperparameter tuning using GridSearchCV
+- Compare Decision Tree with Random Forest and XGBoost
+- Deploy the model using Flask or Streamlit
+- Perform cross-validation
+- Improve feature engineering
 
 ---
 
