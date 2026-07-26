@@ -18,11 +18,11 @@ This project predicts whether a patient has Chronic Kidney Disease (CKD) using a
 ```
 CKD-Prediction-Using-Decision-Tree/
 │── CKD_DecisionTree_Prediction.ipynb
-│── kidney_disease.csv
-│── heatmap.png
-│── feature_importance.png
-│── confusion_matrix.png
 │── README.md
+│── confusion_matrix.png
+│── feature_importance.png
+│── heatmap.png
+│── kidney_disease.csv
 ```
 
 ---
